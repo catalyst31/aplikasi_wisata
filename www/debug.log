@@ -1,0 +1,3 @@
+[1009/103839.750:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1011/012104.611:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1014/035023.799:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
